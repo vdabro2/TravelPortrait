@@ -91,5 +91,6 @@ plt.legend(handles=[mpatches.Patch(color='#342289', label='Food & Drink'),
                     mpatches.Patch(color='#DFCC75', label='Monuments'),
                     mpatches.Patch(color='#CC6577', label='Hotels'),
                     mpatches.Patch(color='#AA4398', label='Culture'),
-                    mpatches.Patch(color='#892255', label='Sports')] ,loc='best',bbox_to_anchor=(0.5, 0., 0.5, 0.5), ncols=2)
+                    mpatches.Patch(color='#892255', label='Sports')] ,loc='upper center', bbox_to_anchor=(0.5, -0.05),
+          fancybox=True, shadow=True, ncol=2)
 plt.show()
