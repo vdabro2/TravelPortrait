@@ -1,4 +1,29 @@
 location,name,category
+san francisco,1,food
+san francisco,2,food
+san francisco,3,food
+san francisco,4,food
+san francisco,5,food
+san francisco,6,sports
+san francisco,7,sports
+san francisco,8,sports
+san francisco,9,sports
+san francisco,10,shopping
+san francisco,11,shopping
+san francisco,12,parks
+san francisco,13,sports
+san francisco,14,culture
+san francisco,15,culture
+san francisco,10,culture
+san francisco,11,culture
+san francisco,12,culture
+san francisco,13,culture
+san francisco,14,museums
+san francisco,15,museums
+san francisco,14,museums
+san francisco,15,museums
+san francisco,14,museums
+san francisco,15,museums
 nyc,1,food
 nyc,2,food
 nyc,3,food
@@ -14,10 +39,11 @@ nyc,12,parks
 nyc,13,monuments
 nyc,14,monuments
 nyc,15,monuments
-chicago,1,food
-chicago,2,food
-chicago,3,food
-chicago,4,food
+chicago,1,parks
+chicago,2,parks
+chicago,3,parks
+chicago,4,parks
+chicago,4,parks
 chicago,5,food
 chicago,6,food
 chicago,7,food
@@ -29,3 +55,24 @@ chicago,12,parks
 chicago,13,monuments
 chicago,14,monuments
 chicago,15,monuments
+paris,1,food
+paris,2,food
+paris,3,monuments
+paris,4,monuments
+paris,5,monuments
+paris,6,monuments
+paris,7,monuments
+paris,8,monuments
+paris,9,monuments
+paris,10,shopping
+paris,11,shopping
+paris,12,parks
+paris,13,monuments
+paris,14,monuments
+paris,15,monuments
+paris,10,hotels
+paris,11,hotels
+paris,12,hotels
+paris,13,hotels
+paris,14,hotels
+paris,15,hotels
