@@ -1,78 +1,103 @@
 location,name,category
-san francisco,1,food
-san francisco,2,food
-san francisco,3,food
-san francisco,4,food
-san francisco,5,food
-san francisco,6,sports
-san francisco,7,sports
-san francisco,8,sports
-san francisco,9,sports
-san francisco,10,shopping
-san francisco,11,shopping
-san francisco,12,parks
-san francisco,13,sports
-san francisco,14,culture
-san francisco,15,culture
-san francisco,10,culture
-san francisco,11,culture
-san francisco,12,culture
-san francisco,13,culture
-san francisco,14,museums
-san francisco,15,museums
-san francisco,14,museums
-san francisco,15,museums
-san francisco,14,museums
-san francisco,15,museums
-nyc,1,food
-nyc,2,food
-nyc,3,food
-nyc,4,food
-nyc,5,food
-nyc,6,food
-nyc,7,food
-nyc,8,shopping
-nyc,9,shopping
-nyc,10,shopping
-nyc,11,shopping
-nyc,12,parks
-nyc,13,monuments
-nyc,14,monuments
-nyc,15,monuments
-chicago,1,parks
-chicago,2,parks
-chicago,3,parks
-chicago,4,parks
-chicago,4,parks
-chicago,5,food
-chicago,6,food
-chicago,7,food
-chicago,8,shopping
-chicago,9,shopping
-chicago,10,shopping
-chicago,11,shopping
-chicago,12,parks
-chicago,13,monuments
-chicago,14,monuments
-chicago,15,monuments
-paris,1,food
-paris,2,food
-paris,3,monuments
-paris,4,monuments
-paris,5,monuments
-paris,6,monuments
-paris,7,monuments
-paris,8,monuments
-paris,9,monuments
-paris,10,shopping
-paris,11,shopping
-paris,12,parks
-paris,13,monuments
-paris,14,monuments
-paris,15,monuments
-paris,10,hotels
-paris,11,hotels
-paris,12,hotels
-paris,13,hotels
-paris,14,hotels
-paris,15,hotels
+"New York City, NY",Ichiran,food
+"New York City, NY",Davelle,food
+"New York City, NY",Chelsea Market,food
+"New York City, NY",Calle Dao,food
+"New York City, NY",Dominique Ansel Bakery,food
+"New York City, NY",KazuNori,food
+"New York City, NY",Jongro BBQ,food
+"New York City, NY",Glossier,shopping
+"New York City, NY",Gentlemonster,shopping
+"New York City, NY",Jo Malone,shopping
+"New York City, NY",MoMa Design Store,shopping
+"New York City, NY",Central Park,parks
+"New York City, NY",Statue of Liberty,monuments
+"New York City, NY",The Oculus,monuments
+"New York City, NY",Charging Bull,monuments
+"Chicago, IL",Au Cheval,food
+"Chicago, IL",Green Street Meats,food
+"Chicago, IL",Alinea,food
+"Chicago, IL",Pequod's Pizza,food
+"Chicago, IL",Kasama,food
+"Chicago, IL",Rose Mary,food
+"Chicago, IL",Monteverde,food
+"Chicago, IL",Water Tower Place,shopping
+"Chicago, IL",Block 37,shopping
+"Chicago, IL",Roosevelt Collection Shops,shopping
+"Chicago, IL",900 N Michigan Shops,shopping
+"Chicago, IL",Grant Park,parks
+"Chicago, IL",Buckingham Fountain,monuments
+"Chicago, IL",The Bean/ Cloud Gate,monuments
+"Chicago, IL",Calder's Flamingo,monuments
+"Paris, France",Le Cinq,food
+"Paris, France",Le Bernardin,food
+"Paris, France",Eiffel Tower,monuments
+"Paris, France",Grand Palais,monuments
+"Paris, France",Les Invalides,monuments
+"Paris, France",Arc de Triomphe,monuments
+"Paris, France",The Basilica of the Sacred Heart of Paris,monuments
+"Paris, France",Opera Garnier,monuments
+"Paris, France",Musée d'Orsay,monuments
+"Paris, France",Galeries Lafayette Haussmann,shopping
+"Paris, France",Westfield Les 4 Temps,shopping
+"Paris, France",Parc Monceau,parks
+"Paris, France",Panthéon,monuments
+"Paris, France",Place de la Concorde,monuments
+"Paris, France",Conciergerie,monuments
+"Paris, France",Le Pavillon de la Reine,hotels
+"Paris, France",Pavillon Faubourg Saint Germain,hotels
+"Paris, France",Hôtel Madame Rêve,hotels
+"Paris, France",Ritz Paris,hotels
+"Paris, France",Hôtel Dame des Arts,hotels
+"Paris, France",Hotel Rochechouart,hotels
+"San Francisco, CA",Tartine Bakery,food
+"San Francisco, CA",The Slanted Door,food
+"San Francisco, CA",Swan Oyster Depot,food
+"San Francisco, CA",House of Prime Rib,food
+"San Francisco, CA",Gary Danko,food
+"San Francisco, CA",Kezar Stadium,sports
+"San Francisco, CA",7,sports
+"San Francisco, CA",8,sports
+"San Francisco, CA",9,sports
+"San Francisco, CA",Union Square,shopping
+"San Francisco, CA",Westfield San Francisco Centre,shopping
+"San Francisco, CA",Golden Gate Park,parks
+"San Francisco, CA",Levi's Stadium,sports
+"San Francisco, CA",San Francisco Museum of Modern Art (SFMOMA),culture
+"San Francisco, CA",15,culture
+"San Francisco, CA",10,culture
+"San Francisco, CA",11,culture
+"San Francisco, CA",12,culture
+"San Francisco, CA",13,culture
+"San Francisco, CA",Asian Art Museum,museums
+"San Francisco, CA",Legion of Honor,museums
+"San Francisco, CA",Contemporary Jewish Museum,museums
+"San Francisco, CA",Walt Disney Family Museum,museums
+"San Francisco, CA",Museum of Ice Cream,museums
+"San Francisco, CA",Aquarium of the Bay,museums
+"Honolulu, HI",Waikiki Beach,parks
+"Honolulu, HI",Lanikai Beach,parks
+"Honolulu, HI",Ala Moana Beach Park,parks
+"Honolulu, HI",Hanauma Bay,parks
+"Honolulu, HI",Sandy Beach Park,parks
+"Honolulu, HI",Ala Moana Center,shopping
+"Honolulu, HI",Royal Hawaiian Center,shopping
+"Honolulu, HI",Waikiki Shopping Plaza,shopping
+"Honolulu, HI",Alan Wong's Pineapple Room,food
+"Honolulu, HI",Chef Mavro,food
+"Honolulu, HI",Morimoto Waikiki,food
+"Honolulu, HI",Helena's Hawaiian Food,food
+"Honolulu, HI",The Pig and the Lady,food
+"Honolulu, HI",MW Restaurant,food
+"Honolulu, HI",Ono Seafood,food
+"Honolulu, HI",Honolulu Museum of Art,museums
+"Honolulu, HI",Pearl Harbor National Memorial,museums
+"Honolulu, HI",Bishop Museum,museums
+"Honolulu, HI",The Royal Hawaiian,hotels
+"Honolulu, HI",Halekulani Hotel,hotels
+"Honolulu, HI","Moana Surfrider, A Westin Resort & Spa",hotels
+"Honolulu, HI",Lyon Arboretum,parks
+"Honolulu, HI",Foster Botanical Garden,parks
+"Honolulu, HI",Magic Island,parks
+"Honolulu, HI",Kapiolani Park,parks
+"Honolulu, HI",Ala Moana Beach Park,parks
