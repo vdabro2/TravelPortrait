@@ -56,19 +56,19 @@ location,name,category
 "San Francisco, CA",House of Prime Rib,food
 "San Francisco, CA",Gary Danko,food
 "San Francisco, CA",Kezar Stadium,sports
-"San Francisco, CA",7,sports
-"San Francisco, CA",8,sports
-"San Francisco, CA",9,sports
+"San Francisco, CA",Oracle Park,sports
+"San Francisco, CA",Chase Center,sports
+"San Francisco, CA",John O'Connell Tech Soccer Field,sports
 "San Francisco, CA",Union Square,shopping
 "San Francisco, CA",Westfield San Francisco Centre,shopping
 "San Francisco, CA",Golden Gate Park,parks
 "San Francisco, CA",Levi's Stadium,sports
 "San Francisco, CA",San Francisco Museum of Modern Art (SFMOMA),culture
-"San Francisco, CA",15,culture
-"San Francisco, CA",10,culture
-"San Francisco, CA",11,culture
-"San Francisco, CA",12,culture
-"San Francisco, CA",13,culture
+"San Francisco, CA",San Francisco Public Library,culture
+"San Francisco, CA",City Lights Booksellers & Publishers,culture
+"San Francisco, CA",San Francisco Ballet,culture
+"San Francisco, CA",Kinokuniya Book Store,culture
+"San Francisco, CA",War Memorial Opera House,culture
 "San Francisco, CA",Asian Art Museum,museums
 "San Francisco, CA",Legion of Honor,museums
 "San Francisco, CA",Contemporary Jewish Museum,museums
